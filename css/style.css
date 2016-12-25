@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+.gameStatus {
+	
+	font-size: 2em;
+}
+.red{
+	color: red;
+}
+.green {
+	color:green;
+}
